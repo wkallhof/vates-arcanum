@@ -1,0 +1,24 @@
+version: "3"
+
+networks:
+  web:
+    external: true
+  internal:
+    external: false
+ 
+services:
+  tarot.wmk.io:
+    restart: always
+    build:
+      context:  ./
+      dockerfile: Dockerfile 
+    volumes:
+      - './data:/data'  
+    labels:
+      - traefik.backend=tarot.wmk.io
+      - traefik.frontend.rule=Host:tarot.wmk.io
+      - traefik.docker.network=web
+      - traefik.port=7650
+    networks:
+      - internal
+      - web

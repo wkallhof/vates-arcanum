@@ -1,0 +1,45 @@
+﻿@page "/"
+@using Newtonsoft.Json
+@using VatesArcanum.Cards
+@inject VatesArcanum.OpenAI.OpenAIClient Client
+@inject CardRepository CardRepository
+
+  <section class="section">
+    <div class="container">
+
+        <h2 class="title is-3">Cards</h2>
+        
+        @* RESULTS *@
+        <div class="columns is-centered is-multiline">
+            @foreach(var card in Cards)
+            {
+                <div class="column is-3">
+                    <div class="card">
+                        <div class="card-image">
+                            <figure class="image">
+                                <img src="@card.ImagePath">
+                            </figure>
+                        </div>
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-content">
+                                    <p class="title is-4">@card.Title</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+  </section>
+
+@code {
+
+    public List<Card> Cards { get; set; } = new List<Card>();
+
+    protected override void OnInitialized()
+    {
+        Cards = CardRepository.GetAllCards().ToList();
+    }
+}

@@ -1,0 +1,626 @@
+[
+    {
+        "title": "The Fool",
+        "description": null,
+        "visualDescription": "A young man holding a white rose stands at the edge of a cliff, with his belongings in a small sack tied to a stick. A dog playfully jumps at his feet.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-fool.svg"
+    },
+    {
+        "title": "The Magician",
+        "description": null,
+        "visualDescription": "A man stands at a table with various magical tools (a wand, a cup, a sword, and a pentacle) laid out before him. He raises one hand towards the sky and points the other towards the ground.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-magician.svg"
+    },
+    {
+        "title": "The High Priestess",
+        "description": null,
+        "visualDescription": "A woman sits on a throne between two pillars, wearing a blue robe and a crown. A crescent moon is at her feet, and she holds a scroll labeled 'Tora'.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-high-priestess.svg"
+    },
+    {
+        "title": "The Empress",
+        "description": null,
+        "visualDescription": "A woman seated on a throne in a lush garden, wearing a crown and holding a scepter. She is surrounded by symbols of fertility and abundance.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-empress.jpg"
+    },
+    {
+        "title": "The Emperor",
+        "description": null,
+        "visualDescription": "A stern, bearded man seated on a throne, wearing a red robe and a crown. He holds a scepter and an orb, representing his power and authority.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-emperor.svg"
+    },
+    {
+        "title": "The Hierophant",
+        "description": null,
+        "visualDescription": "A religious figure sits on a throne between two pillars, wearing a red robe and a crown. He raises his right hand in a blessing, while two acolytes kneel before him.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-hierophant.svg"
+    },
+    {
+        "title": "The Lovers",
+        "description": null,
+        "visualDescription": "A man and a woman stand in a garden, with an angel hovering above them. The man looks at the woman, and the woman looks up at the angel.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-lovers.svg"
+    },
+    {
+        "title": "The Chariot",
+        "description": null,
+        "visualDescription": "A man stands in a chariot pulled by two sphinxes, one black and one white. He holds a wand and wears a suit of armor adorned with symbols.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-chariot.svg"
+    },
+    {
+        "title": "Strength",
+        "description": null,
+        "visualDescription": "A woman gently closes the mouth of a lion, symbolizing inner strength and the power to tame one's own instincts.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/strength.svg"
+    },
+    {
+        "title": "The Hermit",
+        "description": null,
+        "visualDescription": "An old man wearing a hooded cloak and carrying a lantern stands alone on a mountain, symbolizing introspection, solitude, and wisdom.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-hermit.svg"
+    },
+    {
+        "title": "Wheel of Fortune",
+        "description": null,
+        "visualDescription": "A wheel with various symbols is surrounded by four figures (an angel, an eagle, a bull, and a lion) representing the four elements. A sphinx sits atop the wheel, and a serpent descends on one side.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/wheel-of-fortune.svg"
+    },
+    {
+        "title": "Justice",
+        "description": "The card represents fairness, balance, and the rule of law.",
+        "visualDescription": "A woman sits on a throne, holding a sword in one hand and a set of scales in the other.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/justice.svg"
+    },
+    {
+        "title": "The Hanged Man",
+        "description": null,
+        "visualDescription": "A man hangs upside down from a T-shaped wooden structure, with his hands tied behind his back. His face is serene, and his legs form a cross shape.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-hanged-man.svg"
+    },
+    {
+        "title": "Death",
+        "description": null,
+        "visualDescription": "A skeletal figure rides a white horse, carrying a black flag with a white rose. The horse tramples a king, while a bishop, a woman, and a child stand nearby.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/death.svg"
+    },
+    {
+        "title": "Temperance",
+        "description": null,
+        "visualDescription": "An angel pours water between two cups, symbolizing balance and moderation. One foot is in the water and one foot is on land, representing the harmony between the spiritual and material worlds.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/temperance.svg"
+    },
+    {
+        "title": "The Devil",
+        "description": null,
+        "visualDescription": "A horned, goat-like creature with bat wings stands on a pedestal, with a man and a woman chained to it.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-devil.svg"
+    },
+    {
+        "title": "The Tower",
+        "description": null,
+        "visualDescription": "A lightning bolt strikes a tower, causing people to fall from it and the crown on top to topple. The card symbolizes sudden upheaval and chaos.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-tower.svg"
+    },
+    {
+        "title": "The Star",
+        "description": null,
+        "visualDescription": "A naked woman kneels by a pool of water, pouring water from two jugs, one into the pool and one onto the land. In the background, a large star shines brightly in the sky, surrounded by seven smaller stars.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-star.svg"
+    },
+    {
+        "title": "The Moon",
+        "description": null,
+        "visualDescription": "A large moon with a face hovers in the sky, with a dog and a wolf howling at it. In the foreground, a crayfish emerges from a pool of water. A winding path leads into the distance between two towers. The card represents intuition, dreams, and the subconscious mind.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-moon.svg"
+    },
+    {
+        "title": "The Sun",
+        "description": null,
+        "visualDescription": "A naked child rides a white horse under a shining sun with a face. Sunflowers grow in the background, symbolizing happiness, success, and vitality.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-sun.svg"
+    },
+    {
+        "title": "Judgement",
+        "description": null,
+        "visualDescription": "An angel with a trumpet hovers in the sky, while people rise from their graves below. The card represents renewal, redemption, and the call to a higher purpose.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/judgement.svg"
+    },
+    {
+        "title": "The World",
+        "description": null,
+        "visualDescription": "A dancing figure surrounded by a wreath holds a wand in each hand. In the corners of the card, four figures (an angel, an eagle, a bull, and a lion) represent the four elements. The card symbolizes wholeness, completion, and the unity of all things.",
+        "category": "Major Arcana",
+        "suit": null,
+        "imagePath": "/images/cards/the-world.svg"
+    },
+    {
+        "title": "Ace of Cups",
+        "description": "The card symbolizes emotional beginnings and abundance.",
+        "visualDescription": "A hand emerges from a cloud, holding a cup with water overflowing from it. A dove flies towards the cup, carrying an object in its beak.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/ace-of-cups.svg"
+    },
+    {
+        "title": "Two of Cups",
+        "description": "The card represents love, partnership, and emotional harmony.",
+        "visualDescription": "A man and a woman hold cups in their hands, exchanging vows or toasting to their relationship. A caduceus with a lion's head hovers above them.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/two-of-cups.svg"
+    },
+    {
+        "title": "Three of Cups",
+        "description": "The card symbolizes friendship, joy, and social connection.",
+        "visualDescription": "Three women dance together, each holding a cup in celebration. They are surrounded by a fruitful harvest.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/three-of-cups.svg"
+    },
+    {
+        "title": "Four of Cups",
+        "description": "The card represents introspection, contemplation, and dissatisfaction.",
+        "visualDescription": "A man sits under a tree, his arms crossed, looking discontent. Three cups are in front of him, while a fourth cup is being offered by a hand emerging from a cloud.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/four-of-cups.svg"
+    },
+    {
+        "title": "Five of Cups",
+        "description": "The card symbolizes loss, disappointment, and grief.",
+        "visualDescription": "A figure draped in a black cloak mourns over three spilled cups, while two cups remain standing behind them.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/five-of-cups.svg"
+    },
+    {
+        "title": "Six of Cups",
+        "description": "The card represents nostalgia, happy memories, and innocence.",
+        "visualDescription": "Two children exchange flowers in cups. The scene is nostalgic, with an old manor in the background.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/six-of-cups.svg"
+    },
+    {
+        "title": "Seven of Cups",
+        "description": "The card symbolizes choices, illusions, and fantasies.",
+        "visualDescription": "A man stands before seven cups, each containing a different symbol (castle, jewels, a snake, a human head, a shrouded figure, a dragon, and a laurel wreath).",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/seven-of-cups.svg"
+    },
+    {
+        "title": "Eight of Cups",
+        "description": "The card represents emotional withdrawal, abandonment, and the search for deeper meaning.",
+        "visualDescription": "A man walks away from eight stacked cups, leaving them behind to embark on a new journey.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/eight-of-cups.svg"
+    },
+    {
+        "title": "Nine of Cups",
+        "description": "The card symbolizes satisfaction, contentment, and emotional fulfillment.",
+        "visualDescription": "A well-fed man sits on a wooden bench, arms crossed and smiling, with nine cups arranged on a shelf behind him.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/nine-of-cups.svg"
+    },
+    {
+        "title": "Ten of Cups",
+        "description": "The card represents emotional harmony, family unity, and joy.",
+        "visualDescription": "A happy family, with a couple and their children, gaze upon a rainbow of ten cups in the sky.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/ten-of-cups.svg"
+    },
+    {
+        "title": "Page of Cups",
+        "description": "The card symbolizes intuition, creativity, and emotional messages.",
+        "visualDescription": "A young person in a flowing robe stands near the water, holding a cup with a fish emerging from it.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/page-of-cups.svg"
+    },
+    {
+        "title": "Knight of Cups",
+        "description": "The card represents romance, charm, and a gentle approach.",
+        "visualDescription": "A knight in armor rides a white horse, holding a cup in one hand.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/knight-of-cups.svg"
+    },
+    {
+        "title": "Queen of Cups",
+        "description": "The card symbolizes compassion, emotional depth, and empathy.",
+        "visualDescription": "A queen sits on a throne near the water, holding a large, ornate cup.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/queen-of-cups.svg"
+    },
+    {
+        "title": "King of Cups",
+        "description": "The card represents emotional balance, diplomacy, and a wise counselor.",
+        "visualDescription": "A king sits on a throne above turbulent water, holding a cup and a scepter.",
+        "category": "Minor Arcana",
+        "suit": "Cups",
+        "imagePath": "/images/cards/king-of-cups.svg"
+    },
+    {
+        "title": "Ace of Wands",
+        "description": "The card symbolizes creativity, inspiration, and new beginnings.",
+        "visualDescription": "A hand emerges from a cloud, holding a wand with new growth sprouting from it.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/ace-of-wands.svg"
+    },
+    {
+        "title": "Two of Wands",
+        "description": "The card represents planning, ambition, and future possibilities.",
+        "visualDescription": "A man holds a globe in one hand and a wand in the other, while another wand is fixed to the wall behind him. He gazes out over a landscape, contemplating his next move.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/two-of-wands.svg"
+    },
+    {
+        "title": "Three of Wands",
+        "description": "The card symbolizes foresight, expansion, and progress.",
+        "visualDescription": "A man stands on a cliff, holding a wand and looking out at the sea. Two other wands are fixed behind him.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/three-of-wands.svg"
+    },
+    {
+        "title": "Four of Wands",
+        "description": "The card represents celebration, stability, and harmony.",
+        "visualDescription": "Four wands are arranged in the shape of a canopy, adorned with flowers and fruit. Beneath the canopy, a couple celebrates with their arms raised.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/four-of-wands.svg"
+    },
+    {
+        "title": "Five of Wands",
+        "description": "The card symbolizes conflict, rivalry, and competition.",
+        "visualDescription": "Five men hold wands, seemingly engaged in a struggle or competition.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/five-of-wands.svg"
+    },
+    {
+        "title": "Six of Wands",
+        "description": "The card represents victory, success, and public recognition.",
+        "visualDescription": "A victorious man rides a horse, holding a wand with a wreath on top. A crowd of people follows, waving their wands in celebration.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/six-of-wands.svg"
+    },
+    {
+        "title": "Seven of Wands",
+        "description": "The card symbolizes perseverance, courage, and standing up for one's beliefs.",
+        "visualDescription": "A man stands on a hill, holding a wand in a defensive position as he faces six other wands coming from below.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/seven-of-wands.svg"
+    },
+    {
+        "title": "Eight of Wands",
+        "description": "The card represents swift movement, progress, and communication.",
+        "visualDescription": "Eight wands fly through the air at a high speed, crossing the sky above a peaceful landscape.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/eight-of-wands.svg"
+    },
+    {
+        "title": "Nine of Wands",
+        "description": "The card symbolizes resilience, determination, and the need for vigilance.",
+        "visualDescription": "A weary man leans on one of the nine wands, with a bandage around his head. He appears to be guarding the other wands, which are arranged behind him.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/nine-of-wands.svg"
+    },
+    {
+        "title": "Ten of Wands",
+        "description": "The card represents responsibility, burdens, and overcommitment.",
+        "visualDescription": "A man carries a heavy burden of ten wands on his back, struggling under their weight as he moves towards a destination.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/ten-of-wands.svg"
+    },
+    {
+        "title": "Page of Wands",
+        "description": "The card symbolizes enthusiasm, exploration, and new ideas.",
+        "visualDescription": "A young person holds a wand, gazing at it with curiosity and excitement.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/page-of-wands.svg"
+    },
+    {
+        "title": "Knight of Wands",
+        "description": "The card represents energy, passion, and swift action.",
+        "visualDescription": "A knight in armor rides a charging horse, wielding a wand as if it were a weapon.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/knight-of-wands.svg"
+    },
+    {
+        "title": "Queen of Wands",
+        "description": "The card symbolizes warmth, charisma, and a strong-willed leader.",
+        "visualDescription": "A queen sits on a throne, holding a sunflower in one hand and a wand in the other, with a black cat at her feet.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/queen-of-wands.svg"
+    },
+    {
+        "title": "King of Wands",
+        "description": "The card represents vision, inspiration, and a natural-born leader.",
+        "visualDescription": "A king sits on a throne adorned with lions and salamanders, holding a wand and a scepter.",
+        "category": "Minor Arcana",
+        "suit": "Wands",
+        "imagePath": "/images/cards/king-of-wands.svg"
+    },
+    {
+        "title": "Ace of Swords",
+        "description": "The card symbolizes mental clarity, truth, and the power of the intellect.",
+        "visualDescription": "A hand emerges from a cloud, holding an upright sword with a crown at its tip.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/ace-of-swords.svg"
+    },
+    {
+        "title": "Two of Swords",
+        "description": "The card represents indecision, stalemate, and the need for balance.",
+        "visualDescription": "A blindfolded woman sits on a bench, holding two swords crossed over her chest. Behind her, a body of water and a rocky shore are visible.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/two-of-swords.svg"
+    },
+    {
+        "title": "Three of Swords",
+        "description": "The card symbolizes heartbreak, sorrow, and emotional pain.",
+        "visualDescription": "A heart pierced by three swords is set against a backdrop of stormy clouds.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/three-of-swords.svg"
+    },
+    {
+        "title": "Four of Swords",
+        "description": "The card represents rest, recuperation, and solitude.",
+        "visualDescription": "A knight lies on a tomb, with his hands in a position of prayer. Above him, three swords hang on the wall, and a fourth sword is carved into the side of the tomb.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/four-of-swords.svg"
+    },
+    {
+        "title": "Five of Swords",
+        "description": "The card symbolizes conflict, defeat, and loss.",
+        "visualDescription": "A man holds three swords, while two others lie on the ground. In the background, two defeated figures walk away.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/five-of-swords.svg"
+    },
+    {
+        "title": "Six of Swords",
+        "description": "The card represents transition, change, and moving away from difficulties.",
+        "visualDescription": "A man ferries a woman and a child across a body of water in a boat. Six swords are arranged upright in the boat.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/six-of-swords.svg"
+    },
+    {
+        "title": "Seven of Swords",
+        "description": "The card symbolizes deception, cunning, and the need for strategy.",
+        "visualDescription": "A man carries five swords, while two others are left behind. He looks back, as if checking to see if he has been caught.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/seven-of-swords.svg"
+    },
+    {
+        "title": "Eight of Swords",
+        "description": "The card represents restriction, powerlessness, and feeling trapped.",
+        "visualDescription": "A blindfolded woman stands bound, surrounded by eight swords. Behind her, a castle is visible in the distance.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/eight-of-swords.svg"
+    },
+    {
+        "title": "Nine of Swords",
+        "description": "The card symbolizes worry, anxiety, and mental anguish.",
+        "visualDescription": "A woman sits up in bed, her head in her hands, as if waking from a nightmare. Nine swords hang on the wall behind her.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/nine-of-swords.svg"
+    },
+    {
+        "title": "Ten of Swords",
+        "description": "The card represents betrayal, defeat, and a painful ending.",
+        "visualDescription": "A man lies face down, pierced by ten swords in his back. The sky above him is dark and foreboding.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/ten-of-swords.svg"
+    },
+    {
+        "title": "Page of Swords",
+        "description": null,
+        "visualDescription": "A young person stands on a hill, holding a sword aloft while facing the wind. The card symbolizes curiosity, mental agility, and a thirst for knowledge.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/page-of-swords.svg"
+    },
+    {
+        "title": "Knight of Swords",
+        "description": null,
+        "visualDescription": "A knight in armor charges forward on a white horse, wielding a sword. The card represents determination, ambition, and swift action.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/knight-of-swords.svg"
+    },
+    {
+        "title": "Queen of Swords",
+        "description": null,
+        "visualDescription": "A queen sits on a throne, holding a sword in one hand and extending the other in a gesture of fairness. The card symbolizes clarity, objectivity, and a sharp intellect.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/queen-of-swords.svg"
+    },
+    {
+        "title": "King of Swords",
+        "description": null,
+        "visualDescription": "A king sits on a throne, holding a sword upright in one hand and a scepter in the other. The card represents authority, mental clarity, and a strategic thinker.",
+        "category": "Minor Arcana",
+        "suit": "Swords",
+        "imagePath": "/images/cards/king-of-swords.svg"
+    },
+    {
+        "title": "Ace of Pentacles",
+        "description": "The card symbolizes material beginnings, prosperity, and opportunity.",
+        "visualDescription": "A hand emerges from a cloud, holding a golden pentacle. A lush garden with a path leading to a distant mountain is visible in the background.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/ace-of-pentacles.svg"
+    },
+    {
+        "title": "Two of Pentacles",
+        "description": "The card represents balance, adaptability, and the need to manage multiple priorities.",
+        "visualDescription": "A man juggles two pentacles, maintaining their balance. An infinity symbol loops around the pentacles, and turbulent waves are visible in the background.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/two-of-pentacles.svg"
+    },
+    {
+        "title": "Three of Pentacles",
+        "description": "The card symbolizes collaboration, teamwork, and the value of skilled labor.",
+        "visualDescription": "A craftsman works on a cathedral, while two others watch and consult with him.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/three-of-pentacles.svg"
+    },
+    {
+        "title": "Four of Pentacles",
+        "description": "The card represents possessiveness, materialism, and the need for control.",
+        "visualDescription": "A man sits on a bench, holding a pentacle tightly to his chest, with another pentacle under each foot and one atop his head.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/four-of-pentacles.svg"
+    },
+    {
+        "title": "Five of Pentacles",
+        "description": "The card symbolizes hardship, poverty, and a sense of being left out in the cold.",
+        "visualDescription": "Two destitute figures, one on crutches, walk through the snow outside a stained-glass window depicting five pentacles.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/five-of-pentacles.svg"
+    },
+    {
+        "title": "Six of Pentacles",
+        "description": "The card represents charity, generosity, and the need for balance in giving and receiving.",
+        "visualDescription": "A wealthy man gives coins to two beggars, while holding a balanced scale in his other hand.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/six-of-pentacles.svg"
+    },
+    {
+        "title": "Seven of Pentacles",
+        "description": "The card symbolizes patience, hard work, and the anticipation of results.",
+        "visualDescription": "A man leans on a staff, contemplating the seven pentacles growing on the vine before him.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/seven-of-pentacles.svg"
+    },
+    {
+        "title": "Eight of Pentacles",
+        "description": "The card represents dedication, mastery, and the pursuit of excellence.",
+        "visualDescription": "A craftsman sits at a workbench, diligently creating eight pentacles.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/eight-of-pentacles.svg"
+    },
+    {
+        "title": "Nine of Pentacles",
+        "description": "The card represents self-sufficiency, luxury, and the fruits of one's labor.",
+        "visualDescription": "A woman stands in a garden, surrounded by the abundance of nine pentacles. A falcon sits on her gloved hand.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/nine-of-pentacles.svg"
+    },
+    {
+        "title": "Ten of Pentacles",
+        "description": "The card represents legacy, wealth, and family stability.",
+        "visualDescription": "An elderly man sits surrounded by his family and dogs, with a cityscape in the background. Ten pentacles are arranged in the shape of the Tree of Life on the wall behind them.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/ten-of-pentacles.svg"
+    },
+    {
+        "title": "Page of Pentacles",
+        "description": null,
+        "visualDescription": "A young person stands in a field, holding a pentacle and gazing at it with focus and determination. The card symbolizes diligence, practicality, and a desire for growth.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/page-of-pentacles.svg"
+    },
+    {
+        "title": "Knight of Pentacles",
+        "description": null,
+        "visualDescription": "A knight in armor rides a black horse, holding a pentacle in one hand. The card represents responsibility, patience, and a methodical approach.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/knight-of-pentacles.svg"
+    },
+    {
+        "title": "Queen of Pentacles",
+        "description": null,
+        "visualDescription": "A queen sits on a throne in a lush garden, holding a pentacle and surrounded by symbols of nature and abundance. The card symbolizes nurturing, sensibility, and a provider of comfort.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/queen-of-pentacles.svg"
+    },
+    {
+        "title": "King of Pentacles",
+        "description": null,
+        "visualDescription": "A king sits on a throne adorned with symbols of wealth and abundance, holding a scepter and a pentacle. The card represents stability, wealth, and a wise businessperson.",
+        "category": "Minor Arcana",
+        "suit": "Pentacles",
+        "imagePath": "/images/cards/king-of-pentacles.svg"
+    }
+]
