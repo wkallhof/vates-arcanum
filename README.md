@@ -14,7 +14,7 @@ Vates Arcanum is a Tarot web application built using .NET Blazor Server Side, th
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vates-arcanum.git
+git clone https://github.com/wkallhof/vates-arcanum.git
 ```
 
 2. Navigate to the project directory:
