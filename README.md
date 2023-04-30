@@ -22,9 +22,9 @@ git clone https://github.com/wkallhof/vates-arcanum.git
 cd vates-arcanum
 ```
 
-3. Run the application using the .NET CLI:
+3. Run the application `make`
 ```bash
-dotnet run
+make run
 ```
 
 4. Open a browser and navigate to http://localhost:7650 to start using the Vates Arcanum web application.
